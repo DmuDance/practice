@@ -1,1 +1,1 @@
-hello resolved conflict
+hello world2
